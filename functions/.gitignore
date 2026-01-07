@@ -1,0 +1,39 @@
+# ======================
+# Node.js
+# ======================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Firebase
+# ======================
+.firebase/
+firebase-debug.log
+
+# ======================
+# Environment Variables
+# ======================
+.env
+.env.local
+.env.*.local
+*.local
+
+# ======================
+# Firebase Admin SDK (Service Account Key)
+# ======================
+*firebase-adminsdk*.json
+serviceAccountKey.json
+
+# ======================
+# IntelliJ IDEA
+# ======================
+.idea/
+*.iml
+out/
+
+# ======================
+# OS
+# ======================
+.DS_Store
