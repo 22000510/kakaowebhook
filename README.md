@@ -17,7 +17,6 @@
 - Firebase Firestore
 - Kakao i OpenBuilder
 - Gemini API
-- JavaScript (ES6)
 
 ---
 
